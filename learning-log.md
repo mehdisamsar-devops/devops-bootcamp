@@ -1,8 +1,14 @@
-# Journal DevOps - Bootcamp Arabie Saoudite
+# Journal DevOps - Bootcamp Intensif
 
 ## Objectif final
-Poste DevOps Junior/Intermédiaire en Arabie Saoudite - 6 mois
+DevOps Engineer (Junior/Mid-level) - Position internationale - 6 mois
+Ouvert à : Moyen-Orient (Arabie Saoudite, Émirats, Qatar), Europe, Amérique du Nord
 
+## Pourquoi DevOps ?
+- Passion pour l'automatisation et l'infrastructure
+- Compétences techniques recherchées mondialement
+- Opportunités internationales excellentes
+- Salaires compétitifs et perspectives d'évolution
 ## Semaine 1 - Fondations Linux & Bash
 
 ### Jour 1 - 16 Janvier 2026 ✅

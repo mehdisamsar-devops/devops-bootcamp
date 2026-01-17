@@ -1,25 +1,25 @@
-# 🚀 DevOps Bootcamp - Journey to Saudi Arabia
+# 🚀 DevOps Bootcamp - Journey to Excellence
 
 ## 👤 À propos
-**Mehdi Samsar** | Futur DevOps Engineer  
-**Objectif :** Poste DevOps en Arabie Saoudite  
-**Timeline :** 6 mois intensifs (Jan - Juin 2026)  
-**Engagement :** 2h/jour, tous les jours
+**Mehdi Samsar** | Aspiring DevOps Engineer  
+**Objectif :** DevOps position internationally  
+**Timeline :** 6-month intensive bootcamp (Jan - Jun 2026)  
+**Commitment :** 2h/day, every day  
+**Current focus :** Building strong foundations → Linux, Bash, Git, Python, AWS, Docker, Kubernetes
 
 ---
 
-## 🎯 Objectifs du Bootcamp
+## 🎯 Bootcamp Objectives
 
-- ✅ Maîtriser Linux/Unix et scripting Bash
-- ✅ Automatisation avec Python
-- ✅ Conteneurisation (Docker, Kubernetes)
+- ✅ Master Linux/Unix and Bash scripting
+- ✅ Python automation
+- ✅ Containerization (Docker, Kubernetes)
 - ✅ CI/CD (GitHub Actions, Jenkins)
-- ✅ Cloud AWS (certifications)
+- ✅ Cloud platforms (AWS primarily, Azure/GCP)
 - ✅ Infrastructure as Code (Terraform, Ansible)
-- ✅ Monitoring (Prometheus, Grafana)
+- ✅ Monitoring & Observability (Prometheus, Grafana)
 
-**Résultat attendu :** Portfolio solide + AWS Cloud Practitioner + compétences DevOps Junior/Intermédiaire
-
+**Expected outcome:** Solid portfolio + AWS Cloud Practitioner certification + Junior/Mid-level DevOps skills
 ---
 
 ## 📚 Progression
@@ -101,27 +101,29 @@ devops-bootcamp/
 
 ---
 
-## 📈 Roadmap 6 Mois
+## 📈 6-Month Roadmap
 
-**Mois 1-2 : Fondations**
-- Linux/Bash avancé
-- Python pour DevOps
-- Git workflow professionnel
-- Premier déploiement serveur
+**Months 1-2: Foundations**
+- Advanced Linux/Bash
+- Python for DevOps
+- Professional Git workflow
+- First server deployment
 
-**Mois 3-4 : DevOps Core**
+**Months 3-4: Core DevOps**
 - Docker & Docker Compose
 - Kubernetes basics
-- CI/CD avec GitHub Actions
+- CI/CD with GitHub Actions
 - AWS (EC2, S3, IAM, VPC)
 - Terraform
 
-**Mois 5-6 : Expertise & Portfolio**
-- Projets end-to-end
+**Months 5-6: Expertise & Portfolio**
+- End-to-end projects
 - Monitoring (Prometheus/Grafana)
 - AWS Cloud Practitioner certification
-- Portfolio finalisé
-- Préparation entretiens
+- Finalized portfolio
+- Interview preparation
+
+**Target:** DevOps Engineer position (Junior/Mid-level) internationally
 
 ---
 
