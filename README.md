@@ -67,6 +67,23 @@
 - [ ] Documentation professionnelle
 
 ---
+### Semaine 1 : Python pour DevOps ✅
+**Jour 4 (17 Jan 2026)**
+- [x] Bases Python (variables, conditions, boucles)
+- [x] Fonctions et modules réutilisables
+- [x] Manipulation fichiers et JSON
+- [x] Librairie psutil pour monitoring
+- [x] Outil de monitoring système professionnel
+
+**Scripts créés :**
+- `system_monitor.py` - Monitoring CPU, RAM, Disque, Réseau, Processus ⭐
+- `utils.py` - Module d'utilitaires réutilisables
+- 7 scripts d'apprentissage Python
+
+**Statistiques :**
+- 9 scripts Python fonctionnels
+- 6 fichiers générés (logs, JSON, rapports)
+- Outil de monitoring production-ready
 
 ## 🛠️ Compétences Actuelles
 

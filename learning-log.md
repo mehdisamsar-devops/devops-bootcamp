@@ -141,3 +141,76 @@ C'est concret, c'est réel, c'est professionnel !
 **Objectif respecté :** 100% ✅
 
 **Prochaine étape :** Jour 4-5 - Python pour DevOps
+### Jour 4 - 17 Janvier 2026 ✅ VALIDÉ
+
+#### ✅ Compétences acquises :
+- Python syntax complète (variables, types, structures)
+- Conditions (if/elif/else) et boucles (for/while)
+- Fonctions avec paramètres, return, docstrings
+- Modules et imports (création de utils.py réutilisable)
+- Manipulation fichiers (modes r/w/a, context managers)
+- Format JSON (dump, load, structures complexes)
+- Librairie psutil pour monitoring système
+- Classes Python (Colors)
+- Gestion d'erreurs (try/except)
+- Formatage et affichage professionnel
+
+#### 💪 Réalisations majeures :
+- ✅ 9 scripts Python fonctionnels
+- ✅ Module utils.py réutilisable
+- ✅ Rapports automatiques (TXT + JSON)
+- ✅ Dashboard JSON
+- ✅ **system_monitor.py** : Outil de monitoring professionnel
+  - Surveillance CPU, RAM, Disque, Réseau
+  - Top 5 processus
+  - Système d'alertes avec seuils
+  - Génération JSON + Logs horodatés
+  - Affichage coloré terminal
+
+#### 📊 Scripts créés (9) :
+1. basics.py - Variables, types, structures
+2. conditions.py - Logique conditionnelle
+3. loops.py - Boucles et itérations
+4. functions.py - Fonctions réutilisables
+5. utils.py - Module d'utilitaires
+6. use_utils.py - Démonstration imports
+7. file_operations.py - Manipulation fichiers
+8. json_operations.py - Manipulation JSON
+9. system_monitor.py - Monitoring système (OUTIL PRO) ⭐
+
+#### 📁 Fichiers générés (6) :
+- devops_log.txt, rapport_bootcamp.txt
+- bootcamp_data.json, dashboard.json
+- monitoring_report.json, system_monitor.log
+
+#### 🎯 Métriques système surveillées :
+- CPU: 20.4% (4 cœurs @ 2000 MHz)
+- RAM: 70.9% (8 GB total)
+- Disque: 21.8% (167 GB total)
+- Réseau: 729 MB envoyés / 1254 MB reçus
+- Statut: Aucune alerte - Système OK ✅
+
+#### 💡 Outil DevOps vs développeur :
+Différence clé apprise : En DevOps, Python sert à automatiser
+l'infrastructure (monitoring, déploiement, configuration) plutôt
+qu'à développer des applications. system_monitor.py est un exemple
+parfait d'outil qu'un DevOps crée et utilise quotidiennement.
+
+#### 🔧 Workflow :
+Passage de nano à VSCode pour meilleure productivité :
+- Indentation automatique
+- Détection erreurs en temps réel
+- Coloration syntaxe
+- Terminal intégré
+
+#### ⏱️ Temps : 2h30 (dépassement de 30min à cause du setup VSCode - investi pour la suite)
+
+#### 🔥 Moment fort :
+J'AI CRÉÉ UN VRAI OUTIL DE MONITORING DEVOPS ! Ce n'est plus juste
+de l'apprentissage, c'est un outil que je pourrais utiliser sur de
+vrais serveurs. system_monitor.py surveille mon Mac en temps réel,
+génère des rapports JSON, log les métriques. C'est exactement ce
+que font les DevOps en production !
+
+#### 🚀 Prochaine étape :
+Jour 5 : Python avancé - APIs, requests, automation scripts
