@@ -44,7 +44,23 @@
 - 2 backups automatiques créés
 
 ### Semaine 1 : Git & GitHub ⏳
-**Jour 3 (En cours)**
+### Semaine 1 : Git & GitHub ✅
+**Jour 3 (16 Jan 2026)**
+- [x] Setup Git et configuration complète
+- [x] Authentification SSH avec GitHub
+- [x] Premier repo public créé
+- [x] Workflow Git maîtrisé (add, commit, push)
+- [x] README professionnel
+- [x] 2 commits avec messages descriptifs
+
+**Scripts créés :**
+- `git_stats.sh` - Analyse de repo Git (commits, fichiers, branches)
+
+**Statistiques :**
+- Repo public : github.com/mehdisamsar-devops/devops-bootcamp
+- 2 commits
+- 13 fichiers sous Git
+- SSH configuré**Jour 3 (En cours)**
 - [ ] Setup Git et GitHub
 - [ ] Premiers commits et push
 - [ ] Workflow avec branches
