@@ -1,0 +1,23 @@
+Bonjour, je suis Mehdi, futur DevOps Engineer
+
+Âge : 35 ans
+Expérience DevOps : 0 mois
+Salaire cible : 70000€
+
+Portfolio GitHub en ligne : True
+Certification AWS obtenue : False
+
+Compétences actuelles : ['Linux', 'Bash', 'Git', 'Python']
+Nombre de compétences : 4
+Première compétence : Linux
+Dernière compétence : Python
+
+Compétences mises à jour : ['Linux', 'Bash', 'Git', 'Python', 'Docker', 'AWS']
+
+=== PROFIL DEVOPS ===
+nom: Mehdi Samsar
+pays: France
+objectif: International
+bootcamp_jour: 4
+scripts_bash: 6
+commits_git: 3

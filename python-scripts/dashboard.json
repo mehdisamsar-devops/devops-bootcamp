@@ -1,0 +1,26 @@
+{
+  "dashboard_devops": {
+    "titre": "Bootcamp DevOps - Dashboard",
+    "participant": "Mehdi Samsar",
+    "mise_a_jour": "17/01/2026 08:32",
+    "progression": {
+      "jour_actuel": 4,
+      "total_jours": 180,
+      "pourcentage": 2.2,
+      "heures_investies": 10
+    },
+    "metriques": {
+      "scripts_total": 16,
+      "scripts_bash": 6,
+      "scripts_python": 10,
+      "commits_git": 3,
+      "competences_acquises": 6,
+      "projets_termines": 3
+    },
+    "prochaines_etapes": [
+      "Docker",
+      "Kubernetes",
+      "AWS"
+    ]
+  }
+}

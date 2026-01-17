@@ -1,0 +1,33 @@
+==================================================
+  RAPPORT BOOTCAMP DEVOPS - JOUR 4
+==================================================
+
+Date : 17/01/2026 08:34
+Participant : Mehdi Samsar
+Objectif : DevOps Engineer International
+
+PROGRESSION:
+--------------------------------------------------
+✅ Jour 1 : Linux & Terminal
+✅ Jour 2 : Scripts Bash avancés
+✅ Jour 3 : Git & GitHub
+✅ Jour 4 : Python pour DevOps (en cours)
+
+STATISTIQUES:
+--------------------------------------------------
+Scripts Bash : 6
+Scripts Python : 8+
+Commits Git : 3
+Heures pratique : 8h
+Fichiers versionnés : 13+
+
+COMPÉTENCES ACQUISES:
+--------------------------------------------------
+1. Linux command line
+2. Bash scripting
+3. Git workflow
+4. Python basics
+5. Automatisation
+6. Documentation
+
+==================================================

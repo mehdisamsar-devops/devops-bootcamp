@@ -1,0 +1,18 @@
+=== ÉVALUATION PROGRESSION ===
+
+✅ Semaine 1 bientôt terminée !
+✅ Tu as créé plus de 5 scripts - Excellent !
+
+📊 Niveau actuel : Débutant+
+⏱️  Heures de pratique : 8h
+
+✅ Fondations DevOps solides (Bash + Git)
+📚 Continue Python, puis direction Docker !
+
+=== ANALYSE COMMITS ===
+Commits >= 3 : True
+Commits == 3 : True
+Commits != 5 : True
+
+⏳ Docker : prochaine étape (semaine 2)
+🐍 Python en cours d'apprentissage

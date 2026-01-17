@@ -1,0 +1,5 @@
+[2026-01-17 08:34:36.444825] Bootcamp démarré
+[2026-01-17 08:34:36.444845] Jour 4 - Python pour DevOps
+[2026-01-17 08:34:36.444848] Scripts créés : 6 Bash + 8 Python
+[2026-01-17 08:34:36.445219] Compétences : Linux, Bash, Git, Python
+[2026-01-17 08:34:36.445232] Prochaine étape : Docker

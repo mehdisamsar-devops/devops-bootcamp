@@ -1,0 +1,63 @@
+{
+  "timestamp": "2026-01-17T11:40:26.617098",
+  "timestamp_readable": "17/01/2026 11:40:26",
+  "cpu": {
+    "utilisation_pourcent": 20.4,
+    "nombre_coeurs": 4,
+    "frequence_mhz": 2000,
+    "status": "OK"
+  },
+  "memoire": {
+    "total_gb": 8.0,
+    "utilisee_gb": 4.11,
+    "disponible_gb": 2.33,
+    "utilisation_pourcent": 70.9,
+    "status": "OK"
+  },
+  "disque": {
+    "total_gb": 167.64,
+    "utilise_gb": 14.36,
+    "libre_gb": 51.54,
+    "utilisation_pourcent": 21.8,
+    "status": "OK"
+  },
+  "reseau": {
+    "bytes_envoyes_mb": 729.7,
+    "bytes_recus_mb": 1254.18,
+    "paquets_envoyes": 4276979,
+    "paquets_recus": 18819909
+  },
+  "top_processus": [
+    {
+      "pid": 0,
+      "nom": "kernel_task",
+      "cpu_pourcent": 0.0,
+      "ram_pourcent": 0.0
+    },
+    {
+      "pid": 1,
+      "nom": "launchd",
+      "cpu_pourcent": 0.0,
+      "ram_pourcent": 0.0
+    },
+    {
+      "pid": 100,
+      "nom": "logd",
+      "cpu_pourcent": 0.0,
+      "ram_pourcent": 0.0
+    },
+    {
+      "pid": 101,
+      "nom": "UserEventAgent",
+      "cpu_pourcent": 0.0,
+      "ram_pourcent": 0.0
+    },
+    {
+      "pid": 103,
+      "nom": "com.crystalidea.",
+      "cpu_pourcent": 0.0,
+      "ram_pourcent": 0.0
+    }
+  ],
+  "alertes": []
+}

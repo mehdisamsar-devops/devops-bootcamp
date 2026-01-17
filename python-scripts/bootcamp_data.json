@@ -1,0 +1,71 @@
+{
+  "participant": {
+    "nom": "Mehdi Samsar",
+    "age": 35,
+    "pays": "France",
+    "objectif": "DevOps Engineer International"
+  },
+  "bootcamp": {
+    "debut": "2026-01-16",
+    "duree_mois": 6,
+    "heures_par_jour": 2,
+    "jour_actuel": 4
+  },
+  "competences": {
+    "acquises": [
+      "Linux",
+      "Bash",
+      "Git",
+      "Python basics",
+      "File operations",
+      "JSON manipulation"
+    ],
+    "en_cours": [
+      "Python avancé"
+    ],
+    "a_venir": [
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "Terraform"
+    ]
+  },
+  "statistiques": {
+    "scripts_bash": 6,
+    "scripts_python": 10,
+    "commits_git": 3,
+    "fichiers_versionnes": 13,
+    "heures_pratique": 10
+  },
+  "projets": [
+    {
+      "nom": "system_check.sh",
+      "type": "Bash",
+      "description": "Monitoring système",
+      "status": "Terminé"
+    },
+    {
+      "nom": "backup_auto.sh",
+      "type": "Bash",
+      "description": "Backup automatique avec timestamp",
+      "status": "Terminé"
+    },
+    {
+      "nom": "git_stats.sh",
+      "type": "Bash",
+      "description": "Analyse repo Git",
+      "status": "Terminé"
+    },
+    {
+      "nom": "json_operations.py",
+      "type": "Python",
+      "description": "Manipulation JSON pour configs DevOps",
+      "status": "En cours"
+    }
+  ],
+  "metadata": {
+    "derniere_mise_a_jour": "2026-01-17T08:32:16.469968",
+    "version": "1.0",
+    "progression_pourcentage": 2.2
+  }
+}

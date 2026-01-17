@@ -1,0 +1,41 @@
+=== ROADMAP BOOTCAMP ===
+
+📅 Semaine 1: Linux/Bash/Git
+📅 Semaine 2: Python/Docker
+📅 Semaine 3: CI/CD
+📅 Semaine 4: AWS
+
+=== COMPTEUR DE JOURS ===
+
+Jour 1 : 2h de pratique ✅
+Jour 2 : 2h de pratique ✅
+Jour 3 : 2h de pratique ✅
+Jour 4 : 2h de pratique ✅
+Jour 5 : 2h de pratique ✅
+Jour 6 : 2h de pratique ✅
+Jour 7 : 2h de pratique ✅
+
+=== STACK TECHNIQUE ===
+
+1. Linux           ✅ En cours/Acquis
+2. Bash            ✅ En cours/Acquis
+3. Git             ✅ En cours/Acquis
+4. Python          ✅ En cours/Acquis
+5. Docker          ⏳ À venir
+6. Kubernetes      ⏳ À venir
+7. AWS             ⏳ À venir
+
+=== SIMULATION APPRENTISSAGE ===
+
+Semaine 1 : Niveau 105%
+
+🎯 Objectif atteint en 7 jours !
+
+=== SCRIPTS CRÉÉS ===
+
+Scripts contenant 'check' : ['system_check.sh', 'check_file.sh']
+
+Longueurs des noms : [15, 14, 12, 13, 13, 9]
+Nom le plus long : 15 caractères
+
+En majuscules : ['SYSTEM_CHECK.SH', 'BACKUP_AUTO.SH', 'GIT_STATS.SH']...
