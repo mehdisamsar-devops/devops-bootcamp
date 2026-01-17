@@ -1,0 +1,22 @@
+# Fichiers Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Backups
+backups/
+*.tar.gz
+*.zip
+
+# Logs
+*.log
+logs/
+
+# Fichiers temporaires
+*.tmp
+*.swp
+*~
+
+# Fichiers sensibles (plus tard : mots de passe, clés API)
+secrets/
+.env
